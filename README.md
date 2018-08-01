@@ -1,2 +1,2 @@
 A very simple socket demo.
-![](/socket-demonstration.gif);
+![](/public/socket-demonstration.gif);
